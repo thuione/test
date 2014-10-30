@@ -32,6 +32,16 @@ public class AliHttpProtocolHandler {
 	
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
     private static String DEFAULT_CHARSET = "utf-8";
 
