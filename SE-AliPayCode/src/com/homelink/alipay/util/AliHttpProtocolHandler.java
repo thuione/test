@@ -28,6 +28,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AliHttpProtocolHandler {
+	
+	
+	
+	
 
     private static String DEFAULT_CHARSET = "utf-8";
 
